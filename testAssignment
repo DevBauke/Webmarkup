@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="en"> 
+    <meta name="keywords" content="huiswerk, homework">
+    <meta name="description" content="Dit is huiswerk">
+    <link   rel="stylesheet"
+            type="text/css"
+            href="css/mystyle_ass.css"/>
+    <meta name="author" content="mijzelf">
+
+    <title> titel</title>
+
+</head>
+<body>
+    
+    <nav>   
+
+    </nav>
+    <header>
+
+    </header>
+    <aside>
+
+    </aside>
+    <article>
+        1
+    </article>
+    <article>
+        2
+    </article>
+    <article>
+        3
+    </article>
+    <article>
+        4
+    </article>
+    <footer>
+
+    </footer>
+
+</body>
